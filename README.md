@@ -1,6 +1,6 @@
 # Calculator Model Menu
 
-In this calculator user need to choice menu in below
+In this calculator user need to choice menu first.
 ```
 1. Penjumlahan
 2. Pengurangan
@@ -9,11 +9,11 @@ In this calculator user need to choice menu in below
 ```
 user just need to input number of menu, example `1` for penjumlahan (addition).  
   
-after choice menu, user can input the first number, Example `Angka Pertama: 18`  
-after input first number, user must input the second number, Example `Angka Kedua: 9`  
+After choice menu, user can input the first number, Example `Angka Pertama: 18`  
+After input first number, user must input the second number, Example `Angka Kedua: 9`  
   
   User can type `Enter` to see the result  
-  Now user's console will be like this:
+  Now, user's console will be like this:
   ```
   Menu:
 1. Penjumlahan
